@@ -9,7 +9,7 @@ Pumpkin is a real pumpkin turned into a robot, built around a single RDK X5 that
 ## Links
 
 - Repository: https://github.com/YeJiAce/pumpkin-robot
-- Demo video: Coming soon — uploading; the link will be added to this profile within days
+- Demo video: https://www.bilibili.com/video/BV1XHsX6NE7K/
 - Creator / team: YeJi
 - Creator profile: https://github.com/YeJiAce
 - Source license: MIT
