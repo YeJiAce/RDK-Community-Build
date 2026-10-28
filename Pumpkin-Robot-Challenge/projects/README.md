@@ -12,6 +12,7 @@ Source code stays in the creator's repository. Only the project profile and gall
 | Project | Creator | RDK use | Repository | Demo |
 | --- | --- | --- | --- | --- |
 | _No reviewed projects yet_ | — | — | — | — |
+| [Pumpkin](YeJi-Project-Pumpkin.md) | YeJi | BPU person detection + offline ASR + ROS 2 omni drive | [Repository](https://github.com/YeJiAce/pumpkin-robot) | Coming soon |
 
 ## Submit a project
 
